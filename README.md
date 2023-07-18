@@ -1,0 +1,1 @@
+# 65022926_Interface_Multiple_Inheritance
